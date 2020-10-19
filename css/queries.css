@@ -1,0 +1,44 @@
+@media only screen and (max-width: 480px) {
+  body {
+    font-family: 14px;
+  }
+  .container {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .switch {
+    width: 30px;
+    height: 20px;
+  }
+
+  .switch__slider:before {
+    height: 10px;
+    width: 10px;
+  }
+  .add__description,
+  .add__value {
+    padding: 5px 10px;
+    margin-right: 5px;
+  }
+
+  .add__description {
+    width: 140px;
+  }
+
+  .add__value {
+    width: 60px;
+  }
+
+  .add__btn {
+    font-size: 25px;
+    margin-left: 5px;
+  }
+}
+
+@media only screen and (max-width: 280px) {
+  .budget {
+    width: 220px;
+  }
+}
