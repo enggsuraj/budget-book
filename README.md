@@ -19,7 +19,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@blogtheorem](https://www.instagram.com/blogtheorem) - info.blogtheorem@gmail.com
+[@blogtheorem](https://www.instagram.com/blogtheorem) - info.blogtheorem@gmail.com
 
 Project Link:  https://budgetbook-blogtheorem.netlify.app/
 
