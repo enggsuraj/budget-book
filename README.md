@@ -21,6 +21,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [@blogtheorem](https://www.instagram.com/blogtheorem) - info.blogtheorem@gmail.com
 
-Project Link:  https://budgetbook-blogtheorem.netlify.app/
 
 
