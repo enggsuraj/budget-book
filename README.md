@@ -2,7 +2,7 @@
 
 Javascript based expense tracker using MVC architecture, remodify design and functionality from the The Budget App Project - The Complete Javascript Course 2020. 
 
-![budgetbook](https://user-images.githubusercontent.com/6918020/96409211-88d7a300-1202-11eb-8a03-8d7e469e93bb.png)
+<img src="https://user-images.githubusercontent.com/6918020/98088758-dc571b80-1ea7-11eb-96cf-77e80a2127b7.gif" width="400">
 
 Link: https://budgetbook-blogtheorem.netlify.app/
 
@@ -22,6 +22,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 [@blogtheorem](https://www.instagram.com/blogtheorem) - info.blogtheorem@gmail.com
-
-
-
