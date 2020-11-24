@@ -19,6 +19,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [GitHub Pages](https://pages.github.com)
 
 <!-- CONTACT -->
-## Contact
+## Contact 
 
 [@blogtheorem](https://www.instagram.com/blogtheorem) - info.blogtheorem@gmail.com
