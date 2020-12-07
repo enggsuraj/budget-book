@@ -7,7 +7,7 @@ Javascript based expense tracker using MVC architecture, remodify design and fun
 Link: https://budgetbook-blogtheorem.netlify.app/
 
 <!-- LICENSE -->
-## License
+## License 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
