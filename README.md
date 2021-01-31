@@ -1,4 +1,4 @@
-# 💰Budget App 
+# 💰Budget App  
 
 Javascript based expense tracker using MVC architecture, remodify design and functionality from the The Budget App Project - The Complete Javascript Course 2020. 
 
